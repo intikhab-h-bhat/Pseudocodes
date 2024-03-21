@@ -1,4 +1,4 @@
-define num1=20
-define num2=30
-define num3=0
-num3=num1 + num2
+define num1=40
+define num2=50
+define num4=0
+num4=num1 + num2
