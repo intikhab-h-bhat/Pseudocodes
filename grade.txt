@@ -1,0 +1,6 @@
+define marks=75
+define grade=""
+IF marks >= 75
+    grade ="A"
+ELSE
+    grade="B"
