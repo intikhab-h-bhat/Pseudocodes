@@ -1,4 +1,4 @@
-define num1=14
-define num2=25
+define num1=12
+define num2=23
 define num3=0
 num3=num1 * num2
