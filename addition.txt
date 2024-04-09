@@ -1,4 +1,7 @@
-define num1=40
-define num2=50
-define num4=0
-num4=num1 + num2
+//procedure SumOfTwoNumbers
+define num1,num2,sum
+input num1 ="Enter the value for num1"
+input num2 ="Enter the value for num2"
+sum = num1 + num2
+print sum
+End
