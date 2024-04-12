@@ -1,0 +1,12 @@
+define n,f
+f=1
+input n ="enter the value of n"
+IF n == 0
+    PRINT f
+ELSE 
+    WHILE n > 0
+        f = f * n
+        n = n - 1
+        IF n == 0
+            BREAK
+    PRINT f
