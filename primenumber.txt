@@ -1,0 +1,18 @@
+define num1,n,isprime
+n = 2
+isprime = TRUE
+num1 = "Enter the positive integer value for num1"
+IF num1 == 2
+    print ("prime")
+ELSE
+    FOR i in range n to (num-1)
+        IF num1 divisible by i
+            isprime = FALSE
+            break
+        ENDIF    
+    iF isprime == TRUE
+        print("prime")
+    ELSE
+        print("not prime")
+
+
