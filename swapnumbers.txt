@@ -1,0 +1,7 @@
+define num1, num2, temp
+num1 ="assign value"
+num2 ="assign value"
+temp = num1 
+num1 = num2
+nmu2 = temp
+print num1 ,num2
